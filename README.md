@@ -4,7 +4,8 @@
 
 <p align="center">2D lighting and shadows for GameMaker Studio by <b>@JustAHermit</b></p>
 
-https://user-images.githubusercontent.com/8728898/200134341-bccbddcb-6fea-41a1-b99f-ff3b57f0f50f.mp4
+
+https://user-images.githubusercontent.com/8728898/200134552-4ffa2b84-0b6b-4a94-8e54-a65485c7d393.mp4
 
 
 <p align="center"><i>Art assets for the example project created by Luis "Ansimuz" Zuno</i></p>
