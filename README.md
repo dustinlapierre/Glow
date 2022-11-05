@@ -10,3 +10,4 @@
 &nbsp;
 
 <p align="center"><a href="https://github.com/dustinlapierre/Glow/releases/tag/1.0.0">Download the .yymps</a></p>
+<p align="center"><a href="https://github.com/dustinlapierre/Glow/wiki/Setup">Setup Instructions</a></p>
